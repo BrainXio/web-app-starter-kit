@@ -1,0 +1,1 @@
+Log files to keep track of application events and errors.

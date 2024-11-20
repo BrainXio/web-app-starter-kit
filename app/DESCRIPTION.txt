@@ -1,0 +1,1 @@
+Main application directory. Contains the logic for your web app.
